@@ -19,7 +19,7 @@ your scores. Each coin adds 1 point and each stone reduces 1 point.
 - `self.__total_time = 30` each round of this game lasts 30 seconds                                
 - `self.__canvas.after(500, )` in `init_item()` new item falls in 500 ms 
 - `random.choice()` in `class Item()` in `game_object.py` the speed of falling items                                                                               
-- `set_speed()` in `move_left() and move_right()` positive/negative denotes the penguin moving direction, value denotes the penguin moving speed         
+- `set_speed()` in `move_left()` and `move_right()` positive/negative denotes the penguin moving direction, value denotes the penguin moving speed         
                                                                  
 ## user interface
-![The user interface](https://github.com/[HaochenZong]/[Collect_coins]/cat.png?raw=true) 
+![The user interface](https://github.com/HaochenZong/Collect_coins/blob/main/cat.png) 
