@@ -2,8 +2,8 @@
 a simple game of collecting coins implemented by Python Tkinter
 
 ## environment
-operating system: macOS version 12.3.1
-operating software: PyCharm 2021.3.2 (Community Edition)
+- operating system: macOS version 12.3.1
+- operating software: PyCharm 2021.3.2 (Community Edition)
 
 ## rules of the game:
 control a penguin to collect coins falling from the sky as mush as possible
@@ -16,8 +16,8 @@ arrow" to control the main character. When the game overs, you should click the
 button "restart" to restart this game or click "quit" to quit this game.
 
 ## increase/decrease the difficulty of this game
-self.__total_time = 30                                ------ each round of this game lasts 30 seconds
-self.__canvas.after(500, ) in init_item()             ------ new item falls in 500 ms                                     
-random.choice() in class Item() in game_object.py     ------ the speed of falling items                                             
-set_speed() in move_left() and move_right()           ------ positive/negative denotes the penguin moving direction,
-                                                             value denotes the penguin moving speed                
+- 'self.__total_time = 30' each round of this game lasts 30 seconds                                
+- 'self.__canvas.after(500, ) in init_item()' new item falls in 500 ms 
+- 'random.choice() in class Item() in game_object.py' the speed of falling items                                                                               
+- 'set_speed() in move_left() and move_right()' positive/negative denotes the penguin moving direction, value denotes the penguin moving speed            
+                                                                 
