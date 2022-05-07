@@ -25,5 +25,5 @@ your scores. Each coin adds 1 point and each stone reduces 1 point.
 ![The user interface](https://github.com/HaochenZong/Collect_coins/blob/main/user_interface.png) 
 
 ## origin of images
-the images of items and penguin were extracted from MapleStory by Nexon
-the image of the background was obtained from weibo:"Pinkpig阿璐儿-异国短毛猫"
+- the images of items and penguin were extracted from MapleStory by Nexon
+- the image of the background was obtained from weibo:"Pinkpig阿璐儿-异国短毛猫"
