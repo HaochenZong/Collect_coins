@@ -22,4 +22,4 @@ your scores. Each coin adds 1 point and each stone reduces 1 point.
 - `set_speed()` in `move_left()` and `move_right()` positive/negative denotes the penguin moving direction, value denotes the penguin moving speed         
                                                                  
 ## user interface
-![The user interface](https://github.com/HaochenZong/Collect_coins/blob/main/cat.png) 
+![The user interface](https://github.com/HaochenZong/Collect_coins/blob/main/user_interface.png) 
